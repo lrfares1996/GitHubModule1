@@ -18,11 +18,11 @@
   6. I was originally going for a degree in Elementary Education (with a minor in Early Childhood Education) before I switched to Interactive Digital Media (IDM).
   
 ## My Favorite Video Games:
-  * Pokemon
+  * Pokemon<br>
   ![Pokemon](pokemon.png)
-  * Super Smash Brothers
+  * Super Smash Brothers<br>
   ![Super Smash Brothers](smash.png)
-  * Animal Crossing
+  * Animal Crossing<br>
   ![Animal Crossing](acnh.jpg)
   
 ## My Links:
