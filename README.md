@@ -28,6 +28,7 @@
 ## My Links:
   * [LinkedIn](https://www.linkedin.com/in/lindsey-fares-4b638b192/)
   * [Twitter](https://twitter.com/lindseyfares)
+  * [Twitch](https://www.twitch.tv/luckyjiku)
   
 ### Image Links:
   * [Pokemon Sword Game Cover](https://www.google.com/url?sa=i&url=https%3A%2F%2Fyuzu-emu.org%2Fgame%2Fpokemon-sword%2F&psig=AOvVaw2j7gsaJ_maqsYwZZu-RhQX&ust=1598389906650000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCd_IDitOsCFQAAAAAdAAAAABAD)
