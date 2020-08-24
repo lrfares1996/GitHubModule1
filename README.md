@@ -19,7 +19,7 @@
   
 ## My Favorite Video Games:
   * Pokemon
-  ![Pokemon](pokemon.jpeg)
+  ![Pokemon](pokemon.jpg)
   * Super Smash Brothers
   ![Super Smash Brothers](ssb.png)
   * Animal Crossing
