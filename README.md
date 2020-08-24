@@ -21,7 +21,7 @@
   * Pokemon
   ![Pokemon](pokemon.png)
   * Super Smash Brothers
-  ![Super Smash Brothers](ssb.png)
+  ![Super Smash Brothers](smash.png)
   * Animal Crossing
   ![Animal Crossing](acnh.jpg)
   
