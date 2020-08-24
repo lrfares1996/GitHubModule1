@@ -19,11 +19,11 @@
   
 ## My Favorite Video Games:
   * Pokemon
-  ![Pokemon](/images/pokemon.jpg)
+  ![Pokemon](pokemon.jpg)
   * Super Smash Brothers
-  ![Super Smash Brothers](/images/ssb.png)
+  ![Super Smash Brothers](ssb.png)
   * Animal Crossing
-  ![Animal Crossing](/images/acnh.jpg)
+  ![Animal Crossing](acnh.jpg)
   
 ## My Links:
   * [LinkedIn](https://www.linkedin.com/in/lindsey-fares-4b638b192/)
