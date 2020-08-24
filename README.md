@@ -30,6 +30,6 @@
   * [Twitter](https://twitter.com/lindseyfares)
   
 ### Image Links:
-  * [Pokemon Sword Game Cover](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ign.com%2Fgames%2Fpokemon-sword&psig=AOvVaw0SkVPiYMpyxxf4HhGHOGLh&ust=1598373136900000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDX1eiktOsCFQAAAAAdAAAAABAD)
-  * [Super Smash Brothers Melee Cover](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gamespot.com%2Fgames%2Fsuper-smash-bros-melee%2F&psig=AOvVaw1Dtjh42v53AhzC7pqBnO_w&ust=1598373390249000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMD6veCktOsCFQAAAAAdAAAAABAD)
+  * [Pokemon Sword Game Cover](https://www.google.com/url?sa=i&url=https%3A%2F%2Fyuzu-emu.org%2Fgame%2Fpokemon-sword%2F&psig=AOvVaw2j7gsaJ_maqsYwZZu-RhQX&ust=1598389906650000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCd_IDitOsCFQAAAAAdAAAAABAD)
+  * [Super Smash Brothers Smash Ball](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgenius.com%2Falbums%2FSuper-smash-bros-brawl%2FSuper-smash-bros-brawl-official-soundtrack-smash-bros-series&psig=AOvVaw3-Crdv5WRrjlHxPpsx2xTp&ust=1598390014924000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOi_7_rgtOsCFQAAAAAdAAAAABBU)
   * [Animal Crossing: New Horizons](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAnimal_Crossing%3A_New_Horizons&psig=AOvVaw3VfynQW4P0dIxHpfV5Rk38&ust=1598373461318000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCpk7WktOsCFQAAAAAdAAAAABAD)
